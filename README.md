@@ -1,1 +1,1 @@
-New Paste
+GtM/sts ssh
