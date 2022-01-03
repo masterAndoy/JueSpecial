@@ -1,1 +1,1 @@
-GtM/sts ssh
+Admin msg ssh
