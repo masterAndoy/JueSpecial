@@ -1,5 +1,4 @@
 {
-"SendMessage":2,
+"SendMessage":3,
 "MyMessage":
-" Na banned Ang FB ko guys pati Ang group na block. sa 31 pa Ng hapon ma unban. Stay tuned nlng. Bawi ako sa January. "}
-
+" Try ko mamaya maglagay Ng PiSo no Hulog at StS NoLoad. Ugaliin Check Ang Admin MSG na NASA App."}
